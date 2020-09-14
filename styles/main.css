@@ -31,37 +31,36 @@
 }
 
 .card_principal{
-    width:300px ;
-    font: 500 1rem Raleway;
+    width: 33%;
     padding: 10px;
 }
 
 .titulo{
-    width:300px ;
-    font: 500 1rem Raleway;
-
+    width: auto;
+    font: 800 .9rem Raleway;
     color: var(--color-text-bg);
+
     border: 1px solid black;
     border-top-left-radius: 10px;
     background-color: black;
-    padding: .125rem;
-    padding-left: .5rem;
-}
+    display: inline-block;
 
-.periodo{
-    font: 100 1rem Raleway;
 
-    padding: .25rem;
-    padding-left: 0;
+    padding: 4px 4px 4px 5px;
+
 }
 
 .cargo{
-    font: 100 1rem Raleway;
-
-    padding: .25rem;
-    padding-left: 0;
+    font: 800 1.5rem Raleway;
 }
 
+.periodo{
+    font: 300 1rem Raleway;
+}
+
+
 .descricao{
+    font: 300 1rem Raleway;
+    padding: .5rem 0 0 1rem;
 
 }
