@@ -39,19 +39,16 @@
     width: auto;
     font: 800 .9rem Raleway;
     color: var(--color-text-bg);
-
     border: 1px solid black;
     border-top-left-radius: 10px;
     background-color: black;
     display: inline-block;
-
-
     padding: 4px 4px 4px 5px;
 
 }
 
 .cargo{
-    font: 800 1.5rem Raleway;
+    font: 800 1.3rem Raleway;
 }
 
 .periodo{
